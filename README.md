@@ -1,1 +1,1 @@
-Building value systems
+Building value-delivering systems.
