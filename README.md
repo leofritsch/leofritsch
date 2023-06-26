@@ -9,5 +9,3 @@
 ## Stealth
 - ██████ Bot — Scraper
 - ██████World — SaaS
-## Dead / Standby
-- [🏠 Hunt.immo](http://www.hunt.immo)
