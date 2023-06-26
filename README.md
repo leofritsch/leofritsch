@@ -7,3 +7,5 @@
 ## Stealth
 - ██████ Scraper
 - ██████ SaaS
+## Dead / Standby
+- [🏠 Hunt.immo](https://www.hunt.immo)
