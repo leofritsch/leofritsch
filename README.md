@@ -5,7 +5,7 @@
 - Chrome extension: [📮 1 Click Filters for Gmail](https://chrome.google.com/webstore/detail/pdokhkklnjljpcdopemmigpceokpdild/)
 - MacOS Quick Action: [📁 Combine Folders](https://leofree.gumroad.com/l/combinefolders)
 ## Stealth
-- ██████ Scraper
-- ██████ SaaS
+- ██████ Bot — Scraper
+- ██████World — SaaS
 ## Dead / Standby
 - [🏠 Hunt.immo](http://www.hunt.immo)
