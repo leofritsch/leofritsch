@@ -8,4 +8,4 @@
 - ██████ Scraper
 - ██████ SaaS
 ## Dead / Standby
-- [🏠 Hunt.immo](https://www.hunt.immo)
+- [🏠 Hunt.immo](http://www.hunt.immo)
