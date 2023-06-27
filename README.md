@@ -1,7 +1,7 @@
 # ⚡ Building value-delivering systems.
 
 ## Products
-### 📦 Chrome extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) -  ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
+### 📦 Chrome extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
 
   <details>
   
