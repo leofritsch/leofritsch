@@ -30,9 +30,18 @@
   
   ![demo](https://github.com/leofritsch/leofritsch/assets/37147752/fa34951c-9eea-46e2-829c-e1f6acc028b2)
   </details>
+
+### 📦 Dynamic Variables inside Notion: [⛓️ Notion Dynamic Variables](https://github.com/leofritsch/notion-dynamic-variables/) (In Progress)
+  <details>
+  <summary>Demo</summary>
   
-## In progress
+  ![demo]()
+  </details>
+
+
+
+  
+## Stealth
 - Notion Formula Creator A.I. Assistant
-- [Notion Dynamic Variables](https://github.com/leofritsch/notion-dynamic-variables)
 - ██████ Bot — Scraper
 - ██████World — SaaS
