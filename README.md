@@ -39,4 +39,4 @@
 - Notion Formula Creator A.I. Assistant
 - Notion Dynamic Variables Tool
 - ██████ Ninja — Scraper bot
-- ██████World — SaaS
+- ███████████ — SaaS
