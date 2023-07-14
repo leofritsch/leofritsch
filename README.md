@@ -37,5 +37,6 @@
   
 ## Stealth
 - Notion Formula Creator A.I. Assistant
+- Notion Dynamic Variables Tool
 - ██████ Bot — Scraper
 - ██████World — SaaS
