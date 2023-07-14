@@ -35,7 +35,7 @@
 > In Progress
 
   
-## Stealth
+## Not yet released
 - Notion Formula Creator A.I. Assistant
 - Notion Dynamic Variables Tool
 - ██████ Ninja — Scraper bot
