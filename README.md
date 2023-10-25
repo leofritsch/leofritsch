@@ -39,3 +39,8 @@
 - Notion Formula Creator A.I. Assistant
 - ██████ Ninja — Scraper bot
 - ███████████ — SaaS
+
+
+# Badges
+
+[![An image of @leofritsch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leofritsch)](https://holopin.io/@leofritsch)
