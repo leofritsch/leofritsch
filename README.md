@@ -1,7 +1,7 @@
 # ⚡ Building value-delivering systems.
 
 ## Products
-### 📦 Chrome extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
+### 📦 Chrome Extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
 
   <details>
   
@@ -10,7 +10,7 @@
   ![demo](https://lh3.googleusercontent.com/2RzmtG-5XvbzIw5W6KlxDh3lojaus34-97RUohrs3j_gh2TrAXmzRQk7Y7JGRmcXePHuo2qAL-8dqCRxBItq8Dxg=w640-h400-e365-rj-sc0x00ffffff)
   </details>
 
-### 📦 Chrome extension: [📮 1 Click Filters for Gmail](https://chrome.google.com/webstore/detail/pdokhkklnjljpcdopemmigpceokpdild/)             
+### 📦 Chrome Extension: [📮 1 Click Filters for Gmail](https://chrome.google.com/webstore/detail/pdokhkklnjljpcdopemmigpceokpdild/)             
   <details>
   <summary>Demo</summary>
   
@@ -24,7 +24,7 @@
   ![demo](https://public-files.gumroad.com/l03wsrm8jfcgs97uaowpts1ezjjo)
   </details>
 
-### 📦 Raycast command: [🤡 "Let Me Google That"](https://github.com/raycast/script-commands/tree/master/commands#Communication:~:text=Let%20Me%20Google%20That%20For%20You)
+### 📦 Raycast Command: [🤡 "Let Me Google That"](https://github.com/raycast/script-commands/tree/master/commands#Communication:~:text=Let%20Me%20Google%20That%20For%20You)
   <details>
   <summary>Demo</summary>
   
@@ -35,7 +35,7 @@
 > In Progress
 
   
-## Not yet released
+## In Private Beta (Not released yet)
 - Custom GPT: Notion Formula Assistant
 - ██████ Ninja — Lead scraper bot
 
