@@ -36,9 +36,8 @@
 
   
 ## Not yet released
-- Notion Formula Creator A.I. Assistant
-- ██████ Ninja — Scraper bot
-- ███████████ — SaaS
+- Custom GPT: Notion Formula Assistant
+- ██████ Ninja — Lead scraper bot
 
 
 # Badges
