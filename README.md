@@ -1,9 +1,5 @@
 # ⚡ Building valuable systems
 
-📋 Live updates on [twitter](https://twitter.com/leofreech)
-
-![twitter](https://raw.githubusercontent.com/leofritsch/leofritsch/main/twitter_preview_small.png)
-
 ## Products
 ### 📦 Chrome Extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
 
@@ -44,7 +40,12 @@
 - Custom GPT: Notion Formula Assistant
 - ██████ Ninja — Lead scraper bot
 
+## Updates
 
-# Badges
+Follow the live updates on [twitter](https://twitter.com/leofreech)
+
+![twitter](https://raw.githubusercontent.com/leofritsch/leofritsch/main/twitter_preview_small.png)
+
+## Badges
 
 [![An image of @leofritsch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leofritsch)](https://holopin.io/@leofritsch)
