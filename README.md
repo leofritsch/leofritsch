@@ -36,7 +36,7 @@
 
   
 ## In Private Beta (Not released yet)
-- ![Digest App](https://digst.app)
+- [Digest App](https://digst.app)
 - Custom GPT: Notion Formula Assistant
 - ██████ Ninja — Lead scraper bot
 
