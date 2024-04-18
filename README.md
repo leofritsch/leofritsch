@@ -1,4 +1,8 @@
-# ⚡ Building value-delivering systems.
+# ⚡ Building valuable systems
+
+📋 Live updates on [twitter](https://twitter.com/leofreech)
+
+![twitter](https://raw.githubusercontent.com/leofritsch/leofritsch/main/twitter_preview_small.png)
 
 ## Products
 ### 📦 Chrome Extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
