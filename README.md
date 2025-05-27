@@ -1,6 +1,10 @@
 # ⚡ Building systems
 
 ## Products
+### 📦 Chrome Extension: [YouTube Notes Pro](https://youtubenotespro.com)             
+  <details>
+    Take notes on YouTube!
+  </details>
 ### 📦 Chrome Extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
 
   <details>
