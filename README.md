@@ -1,4 +1,4 @@
-# ⚡ Building valuable systems
+# ⚡ Building systems
 
 ## Products
 ### 📦 Chrome Extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
