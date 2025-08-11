@@ -1,8 +1,12 @@
 # ⚡ Building systems
 ---
 ## Published Products
-### 📦 Chrome Extension: [📝 YouTube Notes Pro](https://youtubenotespro.com)             
-Take notes on YouTube!
+
+### 📦 MacOS App: [📆 Daybar.io](https://daybar.io?ref=github)    -- NEW         
+MacOS timeline bar on your screen that syncs with your calendar
+
+### 📦 Chrome Extension: [📝 YouTubeNotesPro.com](https://youtubenotespro.com)             
+Take notes on YouTube, already 1000+ user notes!
   
 ### 📦 Chrome Extension: [💌 Gmail Emails Extractor](https://chrome.google.com/webstore/detail/gmail-emails-extractor/ellkphpnllmbahfkcifbdmbioaahflga) ([Open Source](https://github.com/leofritsch/gmail-emails-extractor))
 
@@ -20,7 +24,7 @@ Take notes on YouTube!
   ![demo](https://lh3.googleusercontent.com/wEXltxCFyr3vdIbLTrNkQo_EW-M-gdFYjAVXTyXVed6gA55Dm2_X5MVJgLw57l4K5ELeDKB1c-qx6AzHTRy55jyiPA=w640-h400-e365-rj-sc0x00ffffff)
   </details>
   
-### 📦 MacOS Quick Action: [📁 Combine Folders](https://leofree.gumroad.com/l/combinefolders)
+### 📦 MacOS Quick Action: [📁 CombineFolders.com](https://leofree.gumroad.com/l/combinefolders?ref=github)
   <details>
   <summary>Demo</summary>
   
@@ -35,21 +39,21 @@ Take notes on YouTube!
   </details>
 
 ### 📦 Dynamic Variables inside Notion: [⛓️ Notion Dynamic Variables](https://github.com/leofritsch/notion-dynamic-variables/)
-> In Progress
+> Abandonned
 
 ---
   
 ## Products in private beta 
 DM to get in
-### 🔒 Productivity calendar bar on MacOS
 ### 🔒 Organic content attribution
-### 🔒 Skool community admin tools
-### 🔒 Deep subconscious reprogramming tool
+### 🔒 Skool community admin AI tools
+### 🔒 Deep subconscious reprogramming system
 ### 🔒 Tailored resume & cover letter AI
+### 🔒 Readwise alternative (kindle highlight reviewing and memorization)
 ---
 ## Updates
 
-Follow the live updates on [twitter](https://twitter.com/leofreech)
+Reach out on [twitter](https://twitter.com/leofreech)!
 
 ![twitter](https://raw.githubusercontent.com/leofritsch/leofritsch/main/twitter_preview_small.png)
 
