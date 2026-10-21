@@ -87,7 +87,7 @@ function banner(P) {
   // The site's loop (experimentempire.com, "We find what works"): a run of ink walks the top
   // edge slowly through the three words, then streaks back along the return. The site does
   // this in JS; here the motion is precomputed into CSS keyframes so it runs inside an <img>.
-  const W = 1200, H = 150, i = 1.5, r = 40, inset = i + r;
+  const W = 1200, H = 160, i = 7.5, r = 40, inset = i + r;
   const words = cfg.banner.words, LS = 31;
   const top = W - 2 * inset, right = H - 2 * inset, arc = Math.PI * r / 2;
   const segs = [['h', top], ['a', arc], ['v', right], ['a', arc], ['h', top], ['a', arc], ['v', right], ['a', arc]];
