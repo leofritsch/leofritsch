@@ -1,0 +1,202 @@
+{
+  "github": "leofritsch",
+  "outputBranch": "output",
+  "banner": {
+    "words": [
+      "Theory",
+      "Experiments",
+      "Practice"
+    ]
+  },
+  "socials": [
+    {
+      "label": "Say hi on X",
+      "meta": "@leofreech",
+      "url": "https://x.com/leofreech",
+      "avatar": "assets/avatar.jpg"
+    }
+  ],
+  "intro": {
+    "title": "Hey, I'm Leo",
+    "lines": [
+      "At [Experiment Empire](https://www.experimentempire.com), we research, build and ship at the edge of AI and automation."
+    ]
+  },
+  "featured": [
+    {
+      "name": "FreeTabs",
+      "status": "NEW",
+      "kind": "freetabs",
+      "desc": "Save the tabs. Free your mind. Tab triage for Chrome.",
+      "metricValue": "Free",
+      "metricLabel": "and open source",
+      "platform": "Chrome extension",
+      "url": "https://github.com/leofritsch/freetabs"
+    },
+    {
+      "name": "Incident Register",
+      "status": "LIVE",
+      "kind": "register",
+      "desc": "A live public record of AI agents going wrong, sourced and scored.",
+      "metricValue": "{{register.count}}",
+      "metricLabel": "incidents, updated every morning",
+      "platform": "EE Labs · open data",
+      "url": "https://www.experimentempire.com/agent-incident-register"
+    },
+    {
+      "name": "Daybar",
+      "status": "SHIPPED",
+      "kind": "daybar",
+      "desc": "Your day as a timeline on the edge of your screen.",
+      "metricValue": "macOS",
+      "metricLabel": "Google, Apple & Outlook calendars",
+      "platform": "macOS app",
+      "url": "https://daybar.io?ref=github"
+    }
+  ],
+  "more": [
+    {
+      "label": "CombineFolders",
+      "meta": "972 sales · 4.5/5",
+      "url": "https://combinefolders.com"
+    },
+    {
+      "label": "YouTubeNotesPro",
+      "meta": "960+ user notes",
+      "url": "https://youtubenotespro.com"
+    },
+    {
+      "label": "ShortCut",
+      "meta": "macOS video editor",
+      "url": "https://github.com/leofritsch/shortcut-releases"
+    },
+    {
+      "label": "Gmail Emails Extractor",
+      "meta": "open source",
+      "url": "https://github.com/leofritsch/gmail-emails-extractor"
+    },
+    {
+      "label": "1 Click Filters for Gmail",
+      "meta": "open source",
+      "url": "https://github.com/leofritsch/1-click-filters-for-gmail"
+    },
+    {
+      "label": "Let Me Google That",
+      "meta": "Raycast",
+      "url": "https://github.com/raycast/script-commands"
+    },
+    {
+      "label": "30+ more experiments",
+      "meta": "experimentempire.com",
+      "url": "https://www.experimentempire.com/#studio",
+      "feature": true
+    }
+  ],
+  "register": {
+    "dataUrl": "https://www.experimentempire.com/agent-incident-register/data.json",
+    "fallbackCount": 97,
+    "fallbackSeverities": [
+      4,
+      3,
+      2,
+      2,
+      1,
+      2,
+      3,
+      2,
+      3,
+      2,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2,
+      3,
+      3,
+      2,
+      3,
+      2,
+      2,
+      4,
+      3,
+      3,
+      4,
+      3,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2,
+      3,
+      2,
+      2,
+      3,
+      4,
+      3,
+      1,
+      2,
+      3,
+      3,
+      3,
+      2,
+      3,
+      3,
+      3,
+      1,
+      2,
+      2,
+      3,
+      5,
+      4,
+      2,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      3,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      1,
+      4,
+      1,
+      2,
+      1,
+      4,
+      4,
+      3,
+      2,
+      3,
+      2,
+      2,
+      1,
+      3,
+      1,
+      3,
+      1,
+      3,
+      3
+    ]
+  },
+  "sections": {
+    "featured": "Highlighted",
+    "more": "All projects"
+  }
+}
