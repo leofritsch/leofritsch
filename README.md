@@ -2,9 +2,9 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/banner-dark.svg"><img alt="Theory → Experiments → Practice" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/banner-light.svg" width="100%"></picture></p>
 
-## Hey, I'm Leo
+<!--## Hey, I'm Leo -->
 
-At [Experiment Empire](https://www.experimentempire.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=intro), we research, build and ship at the edge of AI and automation.
+<!-- At [Experiment Empire](https://www.experimentempire.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=intro), we research, build and ship at the edge of AI and automation. --> 
 
 #### Highlighted
 
