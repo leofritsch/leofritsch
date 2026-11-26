@@ -2,9 +2,9 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/banner-dark.svg"><img alt="Theory → Experiments → Practice" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/banner-light.svg" width="100%"></picture></p>
 
-<!--## Hey, I'm Leo -->
+## Hey, I'm Leo
 
-<!-- At [Experiment Empire](https://www.experimentempire.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=intro), we research, build and ship at the edge of AI and automation. --> 
+At [Experiment Empire](https://www.experimentempire.com/?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=intro), we research, build and ship at the edge of AI and automation.
 
 #### Highlighted
 
@@ -18,7 +18,7 @@
 <a href="https://github.com/leofritsch/gmail-emails-extractor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-gmail-emails-extractor-dark.svg"><img alt="Gmail Emails Extractor — open source" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-gmail-emails-extractor-light.svg" height="32"></picture></a>
 <a href="https://github.com/leofritsch/1-click-filters-for-gmail"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-1-click-filters-for-gmail-dark.svg"><img alt="1 Click Filters for Gmail — open source" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-1-click-filters-for-gmail-light.svg" height="32"></picture></a>
 <a href="https://github.com/raycast/script-commands"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-let-me-google-that-dark.svg"><img alt="Let Me Google That — Raycast" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-let-me-google-that-light.svg" height="32"></picture></a>
-<!--  <a href="https://www.experimentempire.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=readme&amp;utm_content=pill-30-more-experiments#studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-30-more-experiments-dark.svg"><img alt="30+ more experiments — experimentempire.com" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-30-more-experiments-light.svg" height="32"></picture></a>  -->  </p>
+<a href="https://www.experimentempire.com/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=readme&amp;utm_content=pill-30-more-experiments#studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-30-more-experiments-dark.svg"><img alt="30+ more experiments — experimentempire.com" src="https://raw.githubusercontent.com/leofritsch/leofritsch/output/more-30-more-experiments-light.svg" height="32"></picture></a></p>
 
 <br>
 
